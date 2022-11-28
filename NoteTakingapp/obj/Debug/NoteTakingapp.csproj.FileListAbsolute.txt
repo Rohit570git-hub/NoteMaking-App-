@@ -1,0 +1,11 @@
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\bin\Debug\NoteTakingapp.exe.config
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\bin\Debug\NoteTakingapp.exe
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\bin\Debug\NoteTakingapp.pdb
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.AssemblyReference.cache
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.SuggestedBindingRedirects.cache
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.NoteTaker.resources
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.Properties.Resources.resources
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.GenerateResource.cache
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.csproj.CoreCompileInputs.cache
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.exe
+D:\Users\rk150\source\repos\NoteTakingapp\NoteTakingapp\obj\Debug\NoteTakingapp.pdb
